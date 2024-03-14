@@ -17,6 +17,8 @@
     "nodemon": "^3.1.0"
   },
   "dependencies": {
-    "@hapi/hapi": "^21.3.3"
+    "@hapi/hapi": "^21.3.3",
+    "hapi-cors": "^1.0.3",
+    "nanoid": "^3.3.7"
   }
 }
